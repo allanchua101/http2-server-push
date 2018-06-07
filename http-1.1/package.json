@@ -1,0 +1,23 @@
+{
+  "name": "server-push",
+  "version": "1.0.0",
+  "description": "This repository contains a proof of concept that would present the benefits of utilizing HTTP 2.0 Server Push.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allanchua101/HTTP-2.0-Server-Push.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allanchua101/HTTP-2.0-Server-Push/issues"
+  },
+  "homepage": "https://github.com/allanchua101/HTTP-2.0-Server-Push#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
