@@ -1,0 +1,31 @@
+{
+  "name": "http-2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js1.js",
+  "scripts": {
+    "clean": "rm -rf public",
+    "server": "commonshost-server start --options commonshost.conf.js --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@commonshost/cli": "^2.3.1",
+    "@commonshost/server": "^5.3.1",
+    "snazzy": "^7.0.0",
+    "standard": "^10.0.3"
+  },
+  "dependencies": {
+    "cpy-cli": "^1.0.1",
+    "imagemin-cli": "^3.0.0",
+    "postcss-cli": "^4.1.1",
+    "postcss-nesting": "^4.2.1"
+  },
+  "standard": {
+    "env": "browser",
+    "ignore": [
+      "source/scripts/vendor"
+    ]
+  }
+}
