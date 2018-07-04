@@ -13,6 +13,7 @@ In order for you to run the HTTP 1.1 tests, you have to install the following on
 3. Run the command below on your terminal
 
 ```sh
+npm install
 http-server
 ```
 4. Navigate to http://localhost:8080
