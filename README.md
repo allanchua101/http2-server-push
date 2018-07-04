@@ -7,7 +7,7 @@ HTTP/2 Server Push allows an HTTP/2-compliant server to send resources to a HTTP
 In order for you to run the HTTP 1.1 vs HTTP 2.0 tests, you have to install the following on your machine:
 
 1. Google Chrome - Will be used for analyzing web page performances using the Waterfall Diagram.
-2. NodeJS - Running both servers require NodeJS to be installed on your machine.
+2. NodeJS 10+ - Running both servers require NodeJS to be installed on your machine.
 3. NPM - This is shipped with NodeJS and will enable you to download the package depedencies of both sites.
 
 ## Running the HTTP 1.1 Site
