@@ -17,6 +17,7 @@ In order for you to run the HTTP 1.1 vs HTTP 2.0 tests, you have to install the 
 3. Run the command below on your terminal
 
 ```sh
+npm install
 http-server
 ```
 4. Navigate to http://localhost:8080
@@ -28,6 +29,7 @@ http-server
 3. Run the command below on your terminal
 
 ```sh
+npm install
 npm run server
 ```
 4. Navigate to https://localhost:4433
