@@ -31,3 +31,7 @@ http-server
 npm run server
 ```
 4. Navigate to https://localhost:4433
+
+## Read About HTTP 2.0
+
+This repository is used in the article that explains HTTP 2.0 concept. If your interested to learn more about HTTP 2.0, please continue reading on this [article](https://pogsdotnet.blogspot.com/2018/06/http-2-server-push.html).
